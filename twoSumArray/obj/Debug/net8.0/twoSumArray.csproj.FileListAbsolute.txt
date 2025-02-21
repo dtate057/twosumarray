@@ -1,0 +1,15 @@
+/workspaces/twosumarray/twoSumArray/bin/Debug/net8.0/twoSumArray
+/workspaces/twosumarray/twoSumArray/bin/Debug/net8.0/twoSumArray.deps.json
+/workspaces/twosumarray/twoSumArray/bin/Debug/net8.0/twoSumArray.runtimeconfig.json
+/workspaces/twosumarray/twoSumArray/bin/Debug/net8.0/twoSumArray.dll
+/workspaces/twosumarray/twoSumArray/bin/Debug/net8.0/twoSumArray.pdb
+/workspaces/twosumarray/twoSumArray/obj/Debug/net8.0/twoSumArray.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/twosumarray/twoSumArray/obj/Debug/net8.0/twoSumArray.AssemblyInfoInputs.cache
+/workspaces/twosumarray/twoSumArray/obj/Debug/net8.0/twoSumArray.AssemblyInfo.cs
+/workspaces/twosumarray/twoSumArray/obj/Debug/net8.0/twoSumArray.csproj.CoreCompileInputs.cache
+/workspaces/twosumarray/twoSumArray/obj/Debug/net8.0/twoSumArray.sourcelink.json
+/workspaces/twosumarray/twoSumArray/obj/Debug/net8.0/twoSumArray.dll
+/workspaces/twosumarray/twoSumArray/obj/Debug/net8.0/refint/twoSumArray.dll
+/workspaces/twosumarray/twoSumArray/obj/Debug/net8.0/twoSumArray.pdb
+/workspaces/twosumarray/twoSumArray/obj/Debug/net8.0/twoSumArray.genruntimeconfig.cache
+/workspaces/twosumarray/twoSumArray/obj/Debug/net8.0/ref/twoSumArray.dll
